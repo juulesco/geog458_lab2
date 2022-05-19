@@ -8,5 +8,17 @@ This is a project for my Geography 458 class at the University of Washington. I 
 
 # MAP COMPARISON
 
+## North America Map 
+![lab2map1](https://user-images.githubusercontent.com/102700290/169384958-76071cbb-4fe4-46fe-9860-476b4d71e0ff.png)
+
+
+
+## Europe Map 
+
+![lab2map2](https://user-images.githubusercontent.com/102700290/169385004-9ab88b99-2902-4beb-b8f0-41b1a98ca57b.png)
+
+
 
 # WORD CLOUD COMPARISON
+![Word Art 1](https://user-images.githubusercontent.com/102700290/169385036-a10d70ea-f3de-44b1-8151-35db2fa80b90.png)
+![Word Art 2](https://user-images.githubusercontent.com/102700290/169385044-2b0d2e37-b3e8-4f9a-9278-f465c46111ae.png)
