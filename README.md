@@ -22,6 +22,8 @@ The tweets generated from North America were larger than that of the tweets coll
 
 # WORD CLOUD COMPARISON
 
+The text imported to create the word cloud contained the same filter in the code. The word filtered was 'happy'. In North America, the most dominant word was 'Love' and 'Thank'. On the other hand, the most dominant word in the generated tweets from Europe was 'Happy' and 'Love', while 'thank' is also dominant. The similarity between the two word clouds might indicate that both continents use a select number of words when expressing happiness. 
+
 ## North America Word Cloud 
 ![Word Art 1](https://user-images.githubusercontent.com/102700290/169385036-a10d70ea-f3de-44b1-8151-35db2fa80b90.png)
 
