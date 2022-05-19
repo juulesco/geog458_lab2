@@ -20,5 +20,10 @@ This is a project for my Geography 458 class at the University of Washington. I 
 
 
 # WORD CLOUD COMPARISON
+
+## North America Word Cloud 
 ![Word Art 1](https://user-images.githubusercontent.com/102700290/169385036-a10d70ea-f3de-44b1-8151-35db2fa80b90.png)
+
+
+## Europe Word Cloud 
 ![Word Art 2](https://user-images.githubusercontent.com/102700290/169385044-2b0d2e37-b3e8-4f9a-9278-f465c46111ae.png)
