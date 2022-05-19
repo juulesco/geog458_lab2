@@ -8,9 +8,10 @@ This is a project for my Geography 458 class at the University of Washington. I 
 
 # MAP COMPARISON
 
+The tweets generated from North America were larger than that of the tweets collected in Europe. This result might indicate how North American's are frequent users of Twitter. On the other hand, the tweets generated in Europe were extremely spread out and quite sparse. This might indicate that the app is not as popular in Europe.
+
 ## North America Map 
 ![lab2map1](https://user-images.githubusercontent.com/102700290/169384958-76071cbb-4fe4-46fe-9860-476b4d71e0ff.png)
-
 
 
 ## Europe Map 
